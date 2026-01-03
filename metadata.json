@@ -1,0 +1,9 @@
+
+{
+  "name": "FindIt Smart Lost & Found",
+  "description": "A QR-powered lost and found system. Owners register items and generate unique QR stickers. Finders can scan to contact owners and share GPS locations anonymously.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
